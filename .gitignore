@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment files
+
+# Build folders
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+
+# Coverage
+coverage/
+
+# Optional cache
+.cache/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
